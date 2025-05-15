@@ -24,6 +24,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juan-Zamora3/Juan-Zamora3/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juan-Zamora3/Juan-Zamora3/output/pacman-contribution-graph.svg">
