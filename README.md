@@ -24,13 +24,13 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Juan-Zamora3/count.svg?"  />
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Juan-Zamora3/Juan-Zamora3/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Juan-Zamora3/Juan-Zamora3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Juan-Zamora3/Juan-Zamora3/output/pacman-contribution-graph.svg">
-</picture>
+###
+
+<img src="https://raw.githubusercontent.com/Juan-Zamora3/Juan-Zamora3/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -52,12 +52,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Juan-Zamora3/count.svg?"  />
 </div>
 
 ###
